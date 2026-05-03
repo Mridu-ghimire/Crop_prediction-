@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Mac system files
+.DS_Store
+__MACOSX/
+
+# Environment
+.env
+
+# Database (contains user passwords)
+users.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Saved models (large files)
+saved_models/
+
+# Logs (regenerated at runtime)
+prediction_logs.json
+system.log
+logs/system.log
+
+# Setup script
+_setup.py
